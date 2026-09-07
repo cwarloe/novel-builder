@@ -1,7 +1,10 @@
 # E-S##
 
-- pov:
+- id:
+- pov: B-
+- location:
 - when:
+- when_for_this_mind:
 - goal:
 - complication:
 - pivot:
