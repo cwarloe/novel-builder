@@ -1,5 +1,5 @@
 # B-TALL
-Tall pack body. Former teammate of Mark. Grew. Knows the street from after-practice years.
-Unnamed. Not Todd unless later locked.
-Job: hall, cafeteria, the fold.
-Not: redemption, drunk-parents essay, 1993.
+Former teammate who grew. Knows the street. Hall + cafeteria. Mark folds.
+One extra line: You used to play.
+NOT FOR: Todd default, drunk parents, apology, 1993.
+Second scene beyond hall/lunch: ask first.
