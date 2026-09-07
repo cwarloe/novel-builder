@@ -1,5 +1,6 @@
 # STATUS — the-watch
 
-Deep character backstops + NEGATIVES.md added.
-Scene list exists. Beats S01–S03 exist.
-Next: more beats or DRAFT S01 against these cards + NEGATIVES.
+E-S01 CANDIDATE drafted and audited. Beats S01–S08 exist. Epistemic table started.
+
+Human accept or cut the locker knuckle-tap.
+Next: draft S02 or accept S01.
