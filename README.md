@@ -1,13 +1,11 @@
-# story-canon-kit
+# novel-builder
 
-A **human-locked** template for using LLMs on long fiction without letting them invent canon.
+Human-locked canon kit for LLM-assisted fiction. Not a novel generator.
 
-This is not a novel generator. It is a file contract:
+- `KERNEL.md` — policy (no story facts)
+- `HOW-TO.md` — start a book from templates
+- `STATUS.md` — kit status (pilot vs portable)
+- `templates/` `prompts/` — reusable
+- `books/<slug>/` — one story each
 
-- **Architect** may create and lock IDs.
-- **Drafter** may write prose only from a retrieved slice.
-- **Auditor** diffs prose against locked files.
-
-Keep `KERNEL.md` unmodified. Put story facts only under `bible/` and `manuscript/`.
-
-First project: `books/the-watch/`.
+Pilot: `books/the-watch/` (a time-travel middle-grade/YA father-son book). The next novel must be startable from templates alone.
