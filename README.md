@@ -1,5 +1,13 @@
-# novel-builder
+# story-canon-kit
 
-Human-locked canon kit for LLM-assisted fiction. Not a novel generator.
+A **human-locked** template for using LLMs on long fiction without letting them invent canon.
 
-See KERNEL.md and books/the-watch/ for the first project.
+This is not a novel generator. It is a file contract:
+
+- **Architect** may create and lock IDs.
+- **Drafter** may write prose only from a retrieved slice.
+- **Auditor** diffs prose against locked files.
+
+Keep `KERNEL.md` unmodified. Put story facts only under `bible/` and `manuscript/`.
+
+First project: `books/the-watch/`.
