@@ -1,29 +1,12 @@
-# B-MARK
+# B-MARK — deep card
 
-- id: B-MARK
-- display_names: Mark Reynolds [S1] — Jackson [S2] still contested
-- race: Black [USER-CANON]
-- household money: father well-paid medical professional [USER-CANON]
-- school-visible money: phone and clothes Tommy cannot match [S1]
-- not poor; rumor may treat him as if he were
-
-## Invariant
-- English classmate; first lunch alone with a phone
-- Found the antique shop; proposed the ride
-- Half-stands up, folds when they know his street
-- Comics after dropping basketball
-- Gets the watch to Tommy (buy or steal open)
-- No romantic interest in Tommy [USER-CANON]
-- Leans in on the button with Tommy [USER-CANON]
-
-## Gift as social object
-Too expensive for Tommy's house. Unexpected.
-Hallway can read it as a couple gift (lovebirds / picnic date already in S1).
-Adults can read it as where did the money come from.
-Racism can read it as Black kid + expensive object = theft.
-Those readings are other people's. They are not Mark's motive.
-
-## BUY vs STEAL [OPTION]
-BUY: he can; he wants Tommy to have a win; shrugs cost. Shame lands on Tommy. Rumor is false.
-STEAL: not poverty. Impulse, dare, or cash already spent and the gesture still required. Secret. Shopkeeper.
-Hinge: would he steal if Tommy were not in the shop? If no, he buys.
+Mark only in prose until surname locked (Reynolds vs Jackson).
+Black. Medical-pro dad. Not poor. Visible money at school.
+Sports: elementary basketball then comics. Robotics/soccer OFF unless locked.
+Abusive home REJECT.
+Speech: dude, sick, nah man. Not performed AAVE. Not race narrator.
+Gift through him. Not romance. Hall may say couple/charity/stolen. Race rumor may say stolen; rumor is other people.
+Buy vs steal OPEN. Hinge: would he take it if Tommy were outside?
+Will: shop, ride, half-stand, fold, lean, joke until money asked.
+Will not: 1993 comic relief; expert on being targeted; theft-because-Black.
+Does not know Davey is David.

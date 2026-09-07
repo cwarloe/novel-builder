@@ -1,6 +1,5 @@
-# STATUS — the-watch (pilot)
+# STATUS — the-watch
 
-Snowflake: Step 6 + named scene list. Beats exist for E-S01–S03 only.
-
-Next: beats E-S04–S08 or DRAFT E-S01 as CANDIDATE.
-Do not draft 1993 until NOW beats S01–S08 are stable.
+Deep character backstops + NEGATIVES.md added.
+Scene list exists. Beats S01–S03 exist.
+Next: more beats or DRAFT S01 against these cards + NEGATIVES.
