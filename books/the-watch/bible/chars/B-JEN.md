@@ -1,8 +1,6 @@
-# B-JEN — deep card
+# B-JEN — bible (deep)
 
-Jennifer / Jen. Not Linda, Sarah, Karen.
-Same house. Job UNKNOWN. S2 nurse/depression OFF.
-Moves: dinner, counselor vs teacher, birthday box, is everything okay, sees the watch.
-Owns E-S13 missing night. Does not jump.
-Speech: 2009 logistics. Not we need to process this as a family.
-No affair, no secret first marriage, no knowledge of 1993.
+Locked: Jennifer/Jen; not Linda/Sarah/Karen; dinner; counselor vs teacher; birthday box; sees watch; missing-night problem; does not jump.
+Job OPEN. S2 depression OFF.
+Want: house not split on silence. Speech: logistics not processing.
+Forbidden: affair; family-process monologue; knowledge of the jump.

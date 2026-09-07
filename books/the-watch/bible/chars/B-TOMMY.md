@@ -1,10 +1,10 @@
-# B-TOMMY — deep card
+# B-TOMMY — bible (deep)
 
-Identity: Tommy. Last name UNKNOWN. Middle school. Lincoln. David + Jen house. No Scott. City UNKNOWN.
-Inventory NOW: bike, helmet, backpack, laptop, comics, reread SF, Legos, action figures.
-Does not have: car, credit card, named girlfriend, extra friend group, therapist, named pet.
-Speech: dude, leave me alone, school is school. Not trauma-speak. Lying: it was fine + room + Legos.
-Want/lie: stop being the event; if I do not name it I stay safe.
-Tell: freeze, not swing.
-Epistemic: does not know 1993; does not know Davey is Dad until the face; does not know if Mark paid unless he watched the till.
-Catchphrase OFF. Chicago accent OFF unless locked.
+Locked: Tommy; Lincoln; David+Jen house; no Scott; bike helmet backpack laptop comics SF Legos figures; freezes; leave me alone; school is school; cannot pay; leans on button; phone is not the self.
+UNKNOWN: last name, race, city, 13 vs 14.
+No extra friends, no girlfriend, no catchphrase, no accent lock.
+Rhythm: hall, lunch with Mark, bike, room-as-hole, dinner when Jen calls.
+Can: ride, reread, build, wait for a bell. Cannot: first punch, repay Mark, usable sentence for David, leave a mechanism untested.
+Wound/lie/want OPTION: being the event; if I do not name it it stays smaller; one person who picked him.
+Epistemic: no 1993; Davey is not Dad until the face; payment method only if he watched the till.
+Forbidden: therapist voice; named last name; extra best friend; lectures about progress since 1993.

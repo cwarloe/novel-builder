@@ -1,9 +1,8 @@
-# B-DAVID — deep card
+# B-DAVID — bible (deep)
 
-David/Dad now. Davey only in 1993. Lives with Jen and Tommy. Not estranged.
-Job UNKNOWN. Chess story is biography not job. S2 careers OFF.
-Moves: doorway, chess club story, dinner, birthday bedside.
-Lie OPTION: if I tell my story I have helped.
-No adult-David-in-1993. No trauma monologue. No second son on the page.
-Davey: middle school, targeted, does not know the visitors, chess may be the hole, no speech about his future child.
-Recognition OPEN.
+Locked: David/Dad NOW; Davey only 1993; lives with Jen and Tommy; doorway; chess-club story; dinner; birthday bedside.
+Job OPEN. S2 careers OFF.
+Tool: join the thing that worked. Lie OPTION: my story is help.
+Cannot: hear the hall as a different machine; be an adult in 1993.
+Davey: middle school, targeted, does not know visitors, no future-son speech.
+Forbidden: team-up in 1993; trauma vocabulary; second child on page.
