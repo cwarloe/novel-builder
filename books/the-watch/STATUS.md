@@ -1,3 +1,3 @@
-# STATUS — the-watch
-Bibles + dialogue backstop + pack/watch/shopkeeper function cards.
-Manuscript still paused. E-S01 still CANDIDATE.
+# STATUS
+Locks through garage night. Beats S04-S12g written. Manuscript still paused.
+Next: you reread bible, then DRAFT only on request.
