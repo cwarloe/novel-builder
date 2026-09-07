@@ -1,5 +1,5 @@
-# B-TEACHER
-Ends the cafeteria by walking, not a speech. S01 was saved by a bell.
-Allowed: That's enough. Back to your tables.
-Banned: Zero-tolerance lecture. I know what you're going through.
-Default unnamed. Does not detective in 1993.
+# B-TEACHER — Ms. Lang
+Ends S02 by walking. Limits damage. Leaves it unfinished.
+She does not really notice. If she does: boys in middle school. Normal. No commentary.
+Backstory only as anti-plot: tired, files it under noise, likes order more than justice, will remember the table wrong. We will not unpack this.
+Banned: detective, 1993, calling Jen, advocate chapter, why teachers fail kids.

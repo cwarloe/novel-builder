@@ -1,5 +1,7 @@
-# SURROUNDING CAST
-
-Few satellites. Each has a job. No draft-minted cousins.
-Recommend: Tommy no siblings. Mark no siblings on page.
-Slots: B-MARK-DAD, B-MARK-P2 offstage, B-TEACHER unnamed, B-SHOP unnamed, B-FORMER unnamed pack-adjacent.
+# SURROUNDING CAST — this pass
+Tommy siblings: NONE. Scott dead.
+Mark on page siblings: NONE. Offstage college brother is a plug only.
+Dad: Thomas, called Dad.
+Tall: former teammate, unnamed.
+Teacher: Ms. Lang, not a moral play.
+Shopkeeper: unnamed.
