@@ -1,2 +1,6 @@
 # B-JEN
-Jennifer / Jen. Dinner, counselor vs teacher, birthday box. Does not jump.
+
+- display_names: Jennifer (legal), Jen (house)
+- lives in the house
+- dinner, counselor vs teacher, birthday box
+- job OPEN

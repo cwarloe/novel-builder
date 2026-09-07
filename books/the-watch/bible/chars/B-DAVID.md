@@ -1,2 +1,8 @@
-# B-DAVID
-Lives at home with Jen and Tommy. Chess-club advice. Davey in 1993 is the same person as a kid.
+# B-DAVID / DAVEY — PARTIAL
+
+- display_names: David (present), Dad; Davey (youth)
+- doorway: How was your day, son?
+- offers chess-club / regional tournaments / club president
+- lives at dinner; counselor vs teacher with Jen
+- later recognizes Tommy as helper [S1 overview, not forced in Step 5]
+- contested leftover: architect vs history teacher [S2]

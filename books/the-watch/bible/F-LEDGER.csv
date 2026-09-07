@@ -1,0 +1,9 @@
+id,date,who,place,object,info_changed,injury,debt,witnesses,source,status
+F-0001,NOW-unset,B-TOMMY,Lincoln hallway,none,first shove + stutter taunt,none,none,unnamed boys,S1,USER-CANON
+F-0002,NOW-unset,B-TOMMY;B-MARK,cafeteria,phone,Mark named; lunch interrupted,none,none,tall ringleader + pack + teacher,S1,USER-CANON
+F-0003,NOW-unset,B-TOMMY,bike path,bike+helmet,older teens threaten from car,none,none,unknown teens,S1,USER-CANON
+F-0004,NOW-unset,B-TOMMY;B-DAVID;B-JEN,home,laptop+book+Legos,chess-club advice rejected; dinner; parents consider counselor,none,none,parents,S1,USER-CANON
+F-0005,NOW-unset,B-TOMMY;B-MARK,antique shop,watch+symbol,shopkeeper says 1800s,none,price unknown,shopkeeper,S1,USER-CANON
+F-0006,NOW-unset,B-TOMMY;B-MARK,Tommy house,wristwatch,birthday gift version,none,Mark paid UNKNOWN,parents see watch,S1,OPTION
+F-0007,PAST-unset,B-TOMMY;B-MARK,past town,watch button,jump; diner cash; future bill,none,Mark cash,waitress,S1,OPTION-rewrite-1993
+F-0008,PAST-unset,B-TOMMY;B-MARK,past alley,none,intervene in beating,grabbed/punched,none,past boys,S1,USER-CANON-if-kept
