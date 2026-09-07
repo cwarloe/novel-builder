@@ -1,6 +1,4 @@
-# D-ERA-NOW — PARTIAL
-
-- bounds: 2008–2012 window; exact year OPEN; pre-smartphone
-- school: Lincoln Middle School
-- objects: bikes, helmets, laptop, comic forums, Legos, homework portal
-- unsayable until locked: specific app names
+# D-ERA-NOW 2006–07
+iPhone not a middle-school object. House line, possible flip phone, family laptop. Mark's phone is an object not air.
+No apps, swipe, Instagram, I-texted-you as the social world.
+Bill series in the past: 2006 or 2007.
