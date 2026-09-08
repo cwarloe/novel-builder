@@ -1,16 +1,5 @@
-# SNOWFLAKE — the-watch (locked facts only)
+# SNOWFLAKE
 
-## Step 1 [DERIVED] — lock or rewrite
-A bullied middle-schooler and his better-off friend use a watch from an antique shop to reach 1993, where the first boy meets his father as a kid.
+Step 1: A bullied middle-schooler and his better-off friend use a watch from an antique shop to reach 1986–87, where the first boy meets his father as a kid at Arcade Middle School.
 
-## Step 2 [DERIVED] five sentences
-Tommy is a pre-smartphone middle-schooler who cannot make David hear what the hallway costs. Mark, who can buy what Tommy cannot, puts an old watch into Tommy’s life; they both lean on its button and land in 1993. In that year they must pass as locals while Tommy recognizes a younger David in the same kind of trouble he is in now. They fail to fix 1993 with a speech, then get home. Back in NOW, David and Tommy have a shared fact the hallway never gave them; the watch’s receipt and its ownership chain remain unsolved.
-
-Disasters (provisional, not chaptered):
-1. Hallway + gift misread (NOW)
-2. Jump / cannot blend (1993)
-3. They cannot stop what is happening to young David
-4. Home: recognition, not a lecture
-
-## Not in the spine yet
-Buy vs steal. Bootstrap. Exact year 2008–2012. Scott. Todd-as-name. Romance (rumor only).
+Step 2: Tommy cannot make David hear the hallway at Arcade (2006–07). Mark buys a watch Tommy cannot afford; they lean and land in 1986–87 at the same school. Tommy sees Davey in the same trouble. They cannot speech-fix it. Home: a fact the hallway never gave them.

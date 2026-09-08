@@ -1,3 +1,4 @@
 # STATUS
-Locks through garage night. Beats S04-S12g written. Manuscript still paused.
-Next: you reread bible, then DRAFT only on request.
+Canon school: Arcade Middle School both years.
+Years: NOW 2006-07 / PAST 1986-87.
+Lincoln and 1993 retired.
