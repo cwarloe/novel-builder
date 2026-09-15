@@ -1,7 +1,6 @@
 # O-WATCH
-Form: pocket watch. Button/pusher on the case, not the crown.
-Mark buys. Birthday. Both lean. 1986-87. One night.
+Pocket watch. Mark buys. Birthday. Out at school. Pack: goofy + money; source Mark.
 
-Public: they have it out at school (casual). Pack may call it grandpa/goofy/toy AND still smell money. Jokes stack. Cruelty lands on Mark as source (bought you / stolen / picnic optional noise).
-Parents: maybe antique, therefore where; Mark as birthday gift tracks.
-S07 needs it seen. S08 mash the case in the room, not at Arcade.
+Jump: both of them on it at once. The control is an unmarked part of the watch — crown pressed in, case, or a pin that looks like hardware, not a toy button. Do not name BUTTON in dialogue.
+They do not wind time. They fiddle with a thing that is already there. S08 in the room, not at Arcade.
+Unknown rule: does less, not more.
