@@ -1,9 +1,7 @@
 # O-WATCH
-Pocket watch, not a wristwatch.
-Actuator: button/pusher on the case. Not the winding crown. Not a separate gadget.
-Mark buys it. Birthday. Both lean on the same button. 1986-87. One night.
-Carries in a pocket. Optional chain — a line, not a billboard.
-Jen/David see chain, table, or bulge — not a wrist.
-S07 only works if it is seen that period.
-Unknown rule: does less, not more.
-Banned: wrist default, wizard, smartwatch, steampunk kit.
+Form: pocket watch. Button/pusher on the case, not the crown.
+Mark buys. Birthday. Both lean. 1986-87. One night.
+
+Public: they have it out at school (casual). Pack may call it grandpa/goofy/toy AND still smell money. Jokes stack. Cruelty lands on Mark as source (bought you / stolen / picnic optional noise).
+Parents: maybe antique, therefore where; Mark as birthday gift tracks.
+S07 needs it seen. S08 mash the case in the room, not at Arcade.
