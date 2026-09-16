@@ -3,7 +3,7 @@
 ## B-TOMMY
 - One-line: A middle-schooler who treats silence as armor and cannot get his live-in father to hear the hallway.
 - Motivation (abstract): to stop being the problem in every room.
-- Goal (concrete): get through Lincoln without becoming the joke; keep Mark without owing him a life.
+- Goal (concrete): get through Arcade without becoming the joke; keep Mark without owing him a life.
 - Conflict: the watch gift makes him more visible; 1993 shows him David as a kid he cannot officially save; he still has to go to school on Monday.
 - Epiphany [OPTION]: Dad’s useless advice was a badly aimed version of the same fear, not proof Dad never lived it.
 - Not his job: heal David’s childhood; redeem Todd; speech the past forward.
