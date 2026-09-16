@@ -9,4 +9,5 @@ This kit must still work for a second, unrelated novel. Do not bake Watch-only r
 - A new book starts by copying templates into `books/<slug>/bible/`, not by editing The Watch
 
 ## How far the pilot has gone
-Watch is through Snowflake Step 6. See `books/the-watch/STATUS.md`.
+Watch is through Snowflake Step 9 (chars + scene list + beats E-S01–S16). Manuscript paused on E-S01 CANDIDATE. See `books/the-watch/STATUS.md`.
+Q-24/Q-25 locked: Arcade + 2006–07. Framework caught the drift; human resolved.

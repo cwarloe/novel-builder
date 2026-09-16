@@ -1,8 +1,8 @@
 # B-TOMMY-ERA-NOW
 
 - parent: B-TOMMY
-- era: D-ERA-NOW (2008–2012 window)
-- school: Lincoln Middle School
+- era: D-ERA-NOW (2006–07)
+- school: Arcade Middle School
 - inventory: bike, helmet, backpack, laptop, old comics/SF, Legos, action figures
 - money: working-to-middle; no spare for the watch
 - comms: house/laptop; phone not the center of his self
