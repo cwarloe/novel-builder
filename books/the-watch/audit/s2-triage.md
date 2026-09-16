@@ -4,4 +4,4 @@ REJECT: estranged father; high school STEM buddy-comedy; basement portal; 1970; 
 
 OPTION: Tommy 13/hazel/scar/Chicago; Sacramento; chess; Todd name; Frank/grandmother offstage; Mark sports then comics; second Jackson parent.
 
-KEEP: watch to 1993; Mark travels; Davey bullied; chess; David sees the parallel after.
+KEEP: watch to 1986–87; Mark travels; Davey bullied; chess; David sees the parallel after.

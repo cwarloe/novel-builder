@@ -22,7 +22,7 @@ Light, then clipped. Nah man can mean get off him. He does not speech the rumor.
 
 ## Can / cannot
 Can: old town; produce the watch by some path; ice cream; shopkeeper.
-Cannot: make the gift small; stay up when they name his house; keep 1993 from looking twice.
+Cannot: make the gift small; stay up when they name his house; keep 1986–87 from looking twice.
 
 ## Interior [OPTION]
 Tommy is the first person who did not want the phone or the clothes. A gift can do what a joke cannot. He underestimates how public an object becomes on someone else’s wrist.
@@ -40,4 +40,4 @@ Couple. Charity. Thief. Third can be racial. His job is not to teach the hall. H
 Real. If he steals it is not because the house is empty. If he pays it is not sainthood.
 
 ## Forbidden
-Theft-because-Black. Dialect costume. Drug plot. 1993 translator. Tragic essay. Romance with Tommy.
+Theft-because-Black. Dialect costume. Drug plot. 1986–87 translator. Tragic essay. Romance with Tommy.
