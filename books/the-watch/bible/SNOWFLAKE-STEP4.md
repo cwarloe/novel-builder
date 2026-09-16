@@ -2,8 +2,8 @@
 Must = locked. May = only if you later pick the option.
 
 ## Sentence 1 — NOW pressure
-MUST: Tommy cannot make David hear the hallway. Mark is the one friend. Lincoln, bike, cafeteria pack, Jen converting worry to a phone call.
-MAY: named Todd; new-kid origin; exact apps; exact year inside 2008–2012.
+MUST: Tommy cannot make David hear the hallway. Mark is the one friend. Arcade, bike, cafeteria pack, Jen converting worry to a phone call.
+MAY: named Todd; new-kid origin; exact apps; exact year inside 2006–07.
 
 ## Sentence 2 — watch enters, they jump
 MUST: antique shop in old town; symbol watch; Mark puts it in Tommy’s life; both lean on the button; land in 1993.
