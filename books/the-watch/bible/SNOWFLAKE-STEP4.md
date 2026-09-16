@@ -6,15 +6,15 @@ MUST: Tommy cannot make David hear the hallway. Mark is the one friend. Arcade, 
 MAY: named Todd; new-kid origin; exact apps; exact year inside 2006–07.
 
 ## Sentence 2 — watch enters, they jump
-MUST: antique shop in old town; symbol watch; Mark puts it in Tommy’s life; both lean on the button; land in 1993.
-MAY: paid or stolen; birthday vs same-day; who owns it in 1993 (not the case by default).
+MUST: antique shop in old town; symbol watch; Mark puts it in Tommy’s life; both lean on the button; land in 1986–87.
+MAY: paid or stolen; birthday vs same-day; who owns it in 1986–87 (not the case by default).
 
-## Sentence 3 — 1993, they do not belong, Tommy sees Davey
+## Sentence 3 — 1986–87, they do not belong, Tommy sees Davey
 MUST: wrong clothes/money/slang; they find young David in trouble of the same shape.
 MAY: Davey as a glimpse vs a multi-scene kid; chess already visible; town name.
 
 ## Sentence 4 — they cannot speech-fix it
-MUST: intervention fails or only half-works; no TED talk to 1993; they leave a kid still in 1993.
+MUST: intervention fails or only half-works; no TED talk to 1986–87; they leave a kid still in 1986–87.
 MAY: overnight motel; adult stranger breaks it up (S1); they become Davey’s friends for days.
 
 ## Sentence 5 — home

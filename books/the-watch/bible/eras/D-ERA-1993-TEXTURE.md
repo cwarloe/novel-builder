@@ -1,7 +1,2 @@
-# D-ERA-1993 TEXTURE (kill disco draft)
-
-Music: Top 40, cassette, early CD; grunge/hip-hop/R&B on the charts.
-Screens: CRT, maybe one family PC. Phones: kitchen cord, payphone, maybe pager.
-School: lockers, passes, tardy bells.
-Money: cash. Debit? from a NOW kid still plays.
-Do not use: Vietnam-draft sidewalk as current, disco poster as now-playing.
+# RETIRED. Use D-ERA-PAST-TEXTURE.md (1986–87).
+1993 branding is not PAST. Do not load this file for retrieve.
