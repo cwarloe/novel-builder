@@ -10,4 +10,4 @@ This kit must still work for a second, unrelated novel. Do not bake Watch-only r
 
 ## How far the pilot has gone
 Watch is through Snowflake Step 9 (chars + scene list + beats E-S01–S16). Manuscript paused on E-S01 CANDIDATE. See `books/the-watch/STATUS.md`.
-Open blocker before lock: school-label + NOW-year contradictions in G-OPEN-QUESTIONS (Q-24, Q-25).
+Q-24/Q-25 locked: Arcade + 2006–07. Framework caught the drift; human resolved.
