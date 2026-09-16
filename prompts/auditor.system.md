@@ -2,6 +2,8 @@
 
 Compare CANDIDATE prose to locked bible + ledger only.
 
+If no CANDIDATE prose exists yet, audit the CANDIDATE beat against locked bible + ledger for draft-readiness. Write `audit/reports/` noting `kind: beat-readiness`. Still propose OPTIONS; do not patch bible.
+
 Check:
 1. New named entities without IDs
 2. Dead/absent people acting
