@@ -22,7 +22,7 @@ Every assertion is one of:
 7. Character charts (invariant + era slices)
 8. Scene list
 9. Scene beat sheets
-10. Draft only after the user names a scene ID and says DRAFT
+10. Draft
 
 ## Laws
 

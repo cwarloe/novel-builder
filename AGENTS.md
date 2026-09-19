@@ -37,12 +37,11 @@ books/<slug>/
 Pilot book: `books/the-watch/` (time-travel middle-grade/YA, father-son).
 Second book in progress: `books/cadriharetha/`.
 
-## The four things that get violated most
+## The three things that get violated most
 
 1. **Plausible ≠ canon.** Default modern life, default history, default family structure, default tech are `[UNKNOWN]` until the author locks them. Do not fill.
-2. **No drafting without permission.** Prose happens only after a scene ID exists *and* the user says `DRAFT`. Snowflake steps 1–9 come first, in order, no skipping.
-3. **Contradictions stop work.** If two locked files disagree, do not pick a winner. Write both IDs into that book's `G-OPEN-QUESTIONS.md` and stop.
-4. **Era-locked diction.** Speech, naming, and tech follow the era deck of the *scene year*, not the narrator year. Recollection scenes split Then-state and Now-state; Now-words stay out of Then-dialogue.
+2. **Contradictions stop work.** If two locked files disagree, do not pick a winner. Write both IDs into that book's `G-OPEN-QUESTIONS.md` and stop.
+3. **Era-locked diction.** Speech, naming, and tech follow the era deck of the *scene year*, not the narrator year. Recollection scenes split Then-state and Now-state; Now-words stay out of Then-dialogue.
 
 Tag every assertion: `[USER-CANON]` / `[DERIVED]` (state the derivation) / `[OPTION]` (not locked) / `[UNKNOWN]` (ask, don't fill).
 
@@ -61,7 +60,7 @@ Full steps in [`HOW-TO.md`](HOW-TO.md). The short version:
 Pick one and say which you're in. System prompts are in `prompts/`:
 
 - **Architect** (`architect.system.md`) — creates and locks modules, one per reply. Never writes chapter prose.
-- **Drafter** (`drafter.system.md`) — prose, scene-ID-scoped, only on explicit `DRAFT`.
+- **Drafter** (`drafter.system.md`) — prose for one scene ID at a time.
 - **Auditor** (`auditor.system.md`) — checks drafts and beats against locked canon.
 
 ## Output shape (every reply)

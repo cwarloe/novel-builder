@@ -7,6 +7,5 @@
 5. Lock one character invariant + era slice
 6. Snowflake 1-2 from locked facts only
 7. Fill VOICE + FID worksheet in THAT book's diction
-8. Never draft until a scene ID exists and the user says DRAFT
 
 The kit gives questions. The book gives sample sentences. Do not copy The Watch's FID lines into another novel.
