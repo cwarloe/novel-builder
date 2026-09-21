@@ -22,11 +22,13 @@ Two layers, and they must not mix:
 ```
 KERNEL.md              # canon policy — no story facts, ever
 HOW-TO.md              # start a new book from templates
+VOICE-TELLS.md         # prose that doesn't read as generated (kit-level)
 STATUS.md              # kit status: what's portable, what's still pilot-shaped
 templates/             # P-HEAD, A-GUARDRAILS, D-ERA, B-CHARACTER(-ERA),
                        # E-SCENE, F-LEDGER, G-OPEN-QUESTIONS, VOICE, VOICE-FID
 prompts/               # architect / drafter / auditor system prompts + research
 scripts/check_ids.py   # heuristic: draft names not present in bible IDs
+scripts/voice_check.py # heuristic: machine-prose tells in a scene
 books/<slug>/
   bible/               # locked canon for this book
   manuscript/          # prose, only after a scene ID exists
@@ -77,6 +79,12 @@ python3 scripts/check_ids.py books/<slug>
 ```
 
 Heuristic only: flags Title Case names in `manuscript/` that don't appear in `bible/`. A clean run is not proof of canon compliance; the auditor pass is.
+
+```bash
+python3 scripts/voice_check.py books/<slug>/manuscript/*.md --summary
+```
+
+Flags machine-prose tells — verbless fragment runs, dropped determiners, beats landing on a portable moral, antithesis tics, sentence-length flatness. Reading aid, never a gate; it has no calibrated targets for this kit yet. The tells, and the structural one the checker cannot see, are in [`VOICE-TELLS.md`](VOICE-TELLS.md).
 
 ## Done definition
 

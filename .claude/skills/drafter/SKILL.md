@@ -26,6 +26,23 @@ The scene is `$1` when given; otherwise ask which scene ID before writing a line
 3. You may not create IDs, people, places, tools, or doctrines. If the scene needs an unlocked fact, stop and list it as `[UNKNOWN]` rather than inventing something that reads well.
 4. Recollection inside the scene splits Then-state and Now-state; Now-words stay out of Then-dialogue.
 
+## Prose
+
+`VOICE-TELLS.md` is the standing brief on writing that doesn't read as generated. Two things from it apply while you draft rather than after:
+
+- **Let most beats end flat.** Don't close the scene on a line that explains it. Real scenes end on someone leaving, on an unresolved thing, or on nothing.
+- **Don't resolve what the story hasn't paid for.** If something changes, name what it cost. A problem introduced and closed inside one scene reads tidy and false.
+
+Read the file before a first draft. After drafting:
+
+```bash
+python3 scripts/voice_check.py books/<slug>/manuscript/<scene>.md
+```
+
+Report what it flags; it's a reading aid with no calibrated targets for this kit, so don't rewrite to move a number.
+
+## Finishing
+
 After the draft, list: IDs used, ledger rows implied, and any bent fact — that last list must be empty or explicitly flagged. The scene's status stays `CANDIDATE`.
 
 Run `/auditor` on the result before treating it as anything more than a candidate.
