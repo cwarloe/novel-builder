@@ -35,7 +35,6 @@ books/<slug>/
 ```
 
 Pilot book: `books/the-watch/` (time-travel middle-grade/YA, father-son).
-Second book in progress: `books/cadriharetha/`.
 
 ## The three things that get violated most
 
