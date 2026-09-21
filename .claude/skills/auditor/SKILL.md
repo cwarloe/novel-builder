@@ -13,7 +13,7 @@ cat prompts/auditor.system.md
 
 ## How to run this mode
 
-The scene is `$1` when given; otherwise ask which scene, or audit the book's current CANDIDATE.
+The scene is `$0` when given; otherwise ask which scene, or audit the book's current CANDIDATE.
 
 1. Work the numbered checklist above in order. Every finding cites **file plus ID** — "two files disagree" without both IDs is not a usable report.
 2. Run the mechanical pass alongside your reading:

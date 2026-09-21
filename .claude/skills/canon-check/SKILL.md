@@ -13,7 +13,7 @@ ls -1 books/ 2>/dev/null || echo "(none yet)"
 
 ## Run it
 
-The book is `$1` when given; otherwise pick from the list above, asking if more than one could be meant.
+The book is `$0` when given; otherwise pick from the list above, asking if more than one could be meant.
 
 ```bash
 python3 scripts/check_ids.py books/<slug>

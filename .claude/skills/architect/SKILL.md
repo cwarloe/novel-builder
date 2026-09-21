@@ -25,7 +25,7 @@ ls -1 books/ 2>/dev/null || echo "(none yet — see HOW-TO.md to start one)"
 
 ## How to run this mode
 
-The book is `$1` when given; otherwise ask which book before producing anything, or read the slugs above if only one exists.
+The book is `$0` when given; otherwise ask which book before producing anything, or read the slugs above if only one exists.
 
 1. Read that book's `STATUS.md` and `bible/` before writing. Do not work from memory of an earlier session.
 2. Produce **one** module per reply, in a fenced markdown block, at the Snowflake step the book is actually on — not the one that sounds most useful.

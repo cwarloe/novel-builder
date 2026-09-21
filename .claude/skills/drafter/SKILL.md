@@ -19,7 +19,7 @@ cat prompts/drafter.system.md
 
 ## How to run this mode
 
-The scene is `$1` when given; otherwise ask which scene ID before writing a line.
+The scene is `$0` when given; otherwise ask which scene ID before writing a line.
 
 1. Read that scene's `E-SCENE` beat sheet, the character era slices for everyone in it, the era deck for the **scene year**, and the ledger rows it touches. Prose written from anything else is guesswork.
 2. Write the scene. Subtext over diagnosis. Era diction from the loaded deck — the scene year's, not the narrator's.
