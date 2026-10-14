@@ -4,6 +4,11 @@ import re, sys
 from pathlib import Path
 
 root = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
+if not (root / "bible").is_dir():
+    # Without this, running from the repo root finds no bible and no manuscript
+    # and reports a clean pass that checked nothing.
+    print(f"No bible/ folder under {root}. Usage: python3 scripts/check_ids.py books/<slug>")
+    sys.exit(2)
 bible = ""
 for p in (root / "bible").rglob("*"):
     if p.is_file():
